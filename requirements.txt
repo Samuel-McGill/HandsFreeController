@@ -1,0 +1,11 @@
+# Core vision / tracking
+mediapipe>=0.10
+opencv-python>=4.8
+numpy>=1.23
+
+# Voice commands (offline)
+vosk>=0.3.45
+sounddevice>=0.4.6
+
+#Virtual Xbox controller output (requires ViGEmBus installed on Windows)
+vgamepad>=0.1.0
